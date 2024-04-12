@@ -1,4 +1,4 @@
-Казино
+# Казино
 
 import random
 random_number = random.randint(1,100)
@@ -28,7 +28,7 @@ while attempts > 0:
 
         
 
-Сердце из звездочек
+# Сердце из звездочек
 
  a = 8
  b = a + 1
@@ -72,7 +72,7 @@ while attempts > 0:
 
 
 
-Пиццерия
+# Пиццерия
 
 print("Добро пожаловать в наше кафе!")
 result = 0
